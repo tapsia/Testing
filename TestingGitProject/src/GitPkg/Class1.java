@@ -6,6 +6,7 @@ public class Class1 {
 		// TODO Auto-generated method stub
 	System.out.println("Program1");
 	System.out.println("Edited class1");
+	System.out.println("Edited again");
 	}
 
 }
